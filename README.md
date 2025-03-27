@@ -1,5 +1,5 @@
 本插件最初由 [chatgpt-on-wechat] 大神开发，我在原有版本的基础上进行了重大改进。​
-This plugin was initially developed by [Original Author's Name], and I have made significant improvements on the basis of the original version.​
+This plugin was initially developed by [chatgpt-on-wechat], and I have made significant improvements on the basis of the original version.​
 🚀 新功能​
 1. 快递查询修复​
 解决了旧版本中的快递查询问题，确保更准确、稳定的跟踪结果。现在你可以轻松跟踪包裹状态。​
